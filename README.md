@@ -38,7 +38,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - Contribute to more open-source projects.
 - Help MIDI Link Systems with their flagship products.
-- Build a desktop application with WPF.
+- Build a full-blown desktop application with WPF.
 
 ## 📺 Video Demonstrations
 
