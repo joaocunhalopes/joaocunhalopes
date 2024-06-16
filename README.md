@@ -14,10 +14,10 @@ I'm João, a passionate Senior Software Engineer specializing in C# and Java. I 
 A project designed to synchronize CAT (Computer Aided Transceiver) protocols between two Transceivers. Currently supports CI-V (ICOM, Xiegu) and KSI (Kenwood).
 
 ### CatSync, Copyright © 2024 by MIDI Link Systems
-Comercial version of CatSync, by MIDI Link Systems.
+A Comercial version of CatSync, with enhanced functionalities, designed by MIDI Link Systems.
 
 ### MIDICat, Copyright © 2024 by MIDI Link Systems
-Comercial version of MIDICat, by MIDI Link Systems.
+A Comercial version of MIDICat, designed by MIDI Link Systems.
 
 ## 🌱 Currently Learning
 
