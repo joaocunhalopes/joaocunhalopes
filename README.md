@@ -42,7 +42,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ## 📺 Video Demonstrations
 
-### CatSync Demo
+### CatSyncPoc Demo
 Here, you can watch a video of CatSync being tested with a KENWOOD TS-590S and a Xiegu X6100.
 
 [![CatSync Demo](https://img.youtube.com/vi/FZajYRjz7ec/sddefault.jpg)](https://www.youtube.com/watch?v=FZajYRjz7ec)
