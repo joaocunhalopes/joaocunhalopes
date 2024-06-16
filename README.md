@@ -1,6 +1,6 @@
 Welcome! 👋
 
-I'm João, a passionate Senior Software Engineer specializing in C# and Java. I enjoy working on various projects, from Desktop Applications to APIs, and I am always looking to learn and improve my skills.
+I'm João, a passionate Software Engineer specializing in C# and Java. I enjoy working on various projects, from Desktop Applications to APIs, and I am always looking to learn and improve my skills.
 
 ## 🛠️ Languages and Tools
 
