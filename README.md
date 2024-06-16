@@ -32,7 +32,7 @@ A Comercial version of MIDICat, designed by MIDI Link Systems.
 
 ## 📫 How to Reach Me
 
-- Email: joao.cunha.lopes at gmail.com
+- Email: joao.cunha.lopes (at) gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/joaocunhalopes/)
 
 ## 💬 Let's Connect
