@@ -8,6 +8,11 @@ I'm João, a passionate Senior Software Engineer specializing in C# and Java. I 
 - **Frameworks**: .NET, Spring, Hibernate
 - **Tools**: Visual Studio, IntelliJ IDEA, Git, Docker, Jenkins
 
+## 🔄 Project Management
+
+- **Agile**: Scrum, Kanban, XP, Lean
+- **Tools**: Jira, Trello, Asana, Monday.com, Basecamp, MS Project, Notion
+
 ## 📂 Projects
 
 ### CatSyncPoc
