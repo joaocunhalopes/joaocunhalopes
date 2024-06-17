@@ -15,7 +15,7 @@ I'm Joao, a passionate Software Engineer specializing in C# and Java. I enjoy wo
 
 ## 📂 Projects
 
-### CatSyncPoc
+### CatSyncPoC (Proof of Concept)
 An open-source project designed to synchronize CAT (Computer Aided Transceiver) protocols between two Transceivers/Receivers. Currently supports CI-V (ICOM, Xiegu) and KSI (Kenwood).
 
 ### CatSync, Copyright © 2024 by MIDI Link Systems
@@ -47,10 +47,10 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ## 📺 Video Demonstrations
 
-### CatSyncPoc Demo
-Here, you can watch a quick video of CatSync being tested with a Kenwood TS-590S Transceiver and a Xiegu X6100 Transceiver:
+### CatSyncPoC Demo
+Here, you can watch a quick video of CatSyncPoc being tested with a Kenwood TS-590S Transceiver and a Xiegu X6100 Transceiver:
 
-[![CatSyncPoc Demo](https://img.youtube.com/vi/FZajYRjz7ec/sddefault.jpg)](https://www.youtube.com/watch?v=FZajYRjz7ec)
+[![CatSyncPoC Demo](https://img.youtube.com/vi/FZajYRjz7ec/sddefault.jpg)](https://www.youtube.com/watch?v=FZajYRjz7ec)
 
 ## 📄 Resume
 
