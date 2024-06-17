@@ -27,8 +27,8 @@ A Comercial version of MIDICat, designed by MIDI Link Systems.
 ## 🌱 Currently Learning
 
 - Advanced .NET Core features
-- Microservices architecture
-- Cloud services (AWS, Azure)
+- Microservices Architecture
+- Cloud Services (AWS, Azure)
 
 ## 📫 How to Reach Me
 
