@@ -47,7 +47,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ## 📺 Video Demonstrations
 
-### CatSyncPoC Demo
+### CatSync ((Proof of Concept) Demo
 Here, you can watch a quick video of CatSyncPoc being tested with a Kenwood TS-590S Transceiver and a Xiegu X6100 Transceiver:
 
 [![CatSyncPoC Demo](https://img.youtube.com/vi/FZajYRjz7ec/sddefault.jpg)](https://www.youtube.com/watch?v=FZajYRjz7ec)
