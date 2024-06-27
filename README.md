@@ -8,10 +8,12 @@ I'm Joao, a passionate Software Engineer specializing in C# and Java. I enjoy wo
 - **Frameworks**: .NET, Spring, Hibernate
 - **Tools**: Visual Studio, IntelliJ IDEA, Git, Docker, Jenkins
 
+
 ## 🔄 Project Management
 
 - **Agile**: Scrum, Kanban, XP, Lean
 - **Tools**: Jira, Trello, Asana, Monday.com, Basecamp, MS Project, Notion
+
 
 ## 📂 Projects
 
@@ -24,26 +26,31 @@ A Comercial version of CatSync, with enhanced functionalities, designed by MIDI 
 ### MIDICat, Copyright © 2024 by MIDI Link Systems
 A Comercial version of MIDICat, designed by MIDI Link Systems.
 
+
 ## 🌱 Currently Learning
 
 - Advanced .NET Core features
 - Microservices Architecture
 - Cloud Services (AWS, Azure)
 
+
 ## 📫 How to Reach Me
 
 - Email: joao.cunha.lopes (at) gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/joaocunhalopes/)
 
+
 ## 💬 Let's Connect
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+
 
 ## 🎯 Goals for 2024
 
 - Contribute to more open-source projects.
 - Help MIDI Link Systems with their flagship products.
 - Build a full-blown desktop application with WPF.
+
 
 ## 📺 Video Demonstrations
 
@@ -56,6 +63,7 @@ Here, you can watch a quick video of CatSync v.0.0.5-alpha being tested with a K
 Here, you can watch a quick video of CatSyncPoc being tested with a Kenwood TS-590S Transceiver and a Xiegu X6100 Transceiver:
 
 [![CatSyncPoC Demo](https://img.youtube.com/vi/FZajYRjz7ec/sddefault.jpg)](https://www.youtube.com/watch?v=FZajYRjz7ec)
+
 
 ## 📄 Resume
 
