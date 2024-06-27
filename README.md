@@ -21,8 +21,6 @@ An open-source project designed to synchronize CAT (Computer Aided Transceiver) 
 ### CatSync, Copyright © 2024 by MIDI Link Systems
 A Comercial version of CatSync, with enhanced functionalities, designed by MIDI Link Systems.
 
-[![CatSync v0.0.5-alpha Demo](https://img.youtube.com/vi/LIOqxQc6aP8/sddefault.jpg)](https://www.youtube.com/watch?v=LIOqxQc6aP8)
-
 ### MIDICat, Copyright © 2024 by MIDI Link Systems
 A Comercial version of MIDICat, designed by MIDI Link Systems.
 
@@ -48,6 +46,11 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - Build a full-blown desktop application with WPF.
 
 ## 📺 Video Demonstrations
+
+### CatSync (v0.0.5-alpha) Demo
+Here, you can watch a quick video of CatSync v.0.0.5-alpha being tested with a Kenwood TS-590S Transceiver and a Xiegu X6100 Transceiver:
+
+[![CatSync v0.0.5-alpha Demo](https://img.youtube.com/vi/LIOqxQc6aP8/sddefault.jpg)](https://www.youtube.com/watch?v=LIOqxQc6aP8)
 
 ### CatSync (Proof of Concept) Demo
 Here, you can watch a quick video of CatSyncPoc being tested with a Kenwood TS-590S Transceiver and a Xiegu X6100 Transceiver:
