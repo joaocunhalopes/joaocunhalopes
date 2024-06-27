@@ -21,6 +21,8 @@ An open-source project designed to synchronize CAT (Computer Aided Transceiver) 
 ### CatSync, Copyright © 2024 by MIDI Link Systems
 A Comercial version of CatSync, with enhanced functionalities, designed by MIDI Link Systems.
 
+[![CatSync v0.0.5-alpha Demo](https://img.youtube.com/vi/LIOqxQc6aP8/sddefault.jpg)](https://www.youtube.com/watch?v=LIOqxQc6aP8)
+
 ### MIDICat, Copyright © 2024 by MIDI Link Systems
 A Comercial version of MIDICat, designed by MIDI Link Systems.
 
