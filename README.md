@@ -57,6 +57,11 @@ Here, you can watch a quick video of CatSync v.0.0.5-alpha being tested with a K
 
 [![CatSync v0.0.5-alpha Demo](https://img.youtube.com/vi/LIOqxQc6aP8/sddefault.jpg)](https://www.youtube.com/watch?v=LIOqxQc6aP8)
 
+### CatSync (v0.0.1-beta) Public Release
+Here, you can watch a quick video of CatSync v.0.0.1-beta being tested with a Kenwood TS-590S Transceiver and a Xiegu X6100 Transceiver:
+
+[![CatSync v0.0.1-beta Release](https://img.youtube.com/vi/3ZtLH-BLdNc/sddefault.jpg)](https://www.youtube.com/watch?v=3ZtLH-BLdNc)
+
 ## 📄 Resume
 
 For more details about my experience and education, you can reach me for my full resume.
