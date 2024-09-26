@@ -16,13 +16,13 @@ I'm Joao, a passionate Software Engineer specializing in C# and Java. I enjoy wo
 ## 📂 Projects
 
 ### CatSyncPoC (Proof of Concept)
-An open-source project designed to synchronize CAT (Computer Aided Transceiver) protocols between two Transceivers/Receivers. Currently supports CI-V (ICOM, Xiegu) and KSI (Kenwood).
+An open-source POC (Proof-of-Concept) project designed to synchronize CAT (Computer Aided Transceiver) protocols between two Transceivers/Receivers. Currently supports CI-V (ICOM, Xiegu) and KSI (Kenwood).
 
 ### CatSync, Copyright © 2024 by MIDI Link Systems
-A version of CatSync, with enhanced functionalities, designed and developed by MIDI Link Systems.
+A full-blown version of CatSync, with enhanced functionalities, designed and developed by MIDI Link Systems.
 
 ### MIDICat, Copyright © 2024 by MIDI Link Systems
-A Comercial version of MIDICat, designed and developed by MIDI Link Systems.
+A Comercial version of MIDICat, designed and developed (under development) by MIDI Link Systems.
 
 ## 🌱 Currently Using
 
