@@ -19,7 +19,7 @@ I'm Joao, a passionate Software Engineer specializing in C# and Java. I enjoy wo
 An open-source project designed to synchronize CAT (Computer Aided Transceiver) protocols between two Transceivers/Receivers. Currently supports CI-V (ICOM, Xiegu) and KSI (Kenwood).
 
 ### CatSync, Copyright © 2024 by MIDI Link Systems
-A Comercial version of CatSync, with enhanced functionalities, designed by MIDI Link Systems.
+A version of CatSync, with enhanced functionalities, designed by MIDI Link Systems.
 
 ### MIDICat, Copyright © 2024 by MIDI Link Systems
 A Comercial version of MIDICat, designed by MIDI Link Systems.
