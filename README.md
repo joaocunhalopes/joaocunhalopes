@@ -4,7 +4,7 @@ I'm Joao, a passionate Software Engineer specializing in C# and Java. I enjoy wo
 
 ## 🛠️ Languages and Tools
 
-- **Languages**: C#, Java, Phyton, JavaScript, HTML, CSS
+- **Languages**: C#, Java, Python, JavaScript, HTML, CSS
 - **Frameworks**: .NET, Spring, Hibernate
 - **Tools**: Visual Studio, IntelliJ IDEA, Git, Docker, Jenkins
 
