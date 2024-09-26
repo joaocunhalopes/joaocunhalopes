@@ -24,7 +24,7 @@ A Comercial version of CatSync, with enhanced functionalities, designed by MIDI 
 ### MIDICat, Copyright © 2024 by MIDI Link Systems
 A Comercial version of MIDICat, designed by MIDI Link Systems.
 
-## 🌱 Currently Learning
+## 🌱 Currently Using
 
 - Advanced .NET Core features
 - Microservices Architecture
