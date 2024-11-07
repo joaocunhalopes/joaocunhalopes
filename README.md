@@ -53,12 +53,13 @@ Here, you can watch a quick video of CatSyncPoc being tested with a Kenwood TS-5
 [![CatSyncPoC Demo](https://img.youtube.com/vi/_00JY6UxWrs/sddefault.jpg)](https://www.youtube.com/watch?v=_00JY6UxWrs)
 
 ### CatSync (v0.0.5-alpha) Demo
-Here, you can watch a quick video of CatSync v.0.0.5-alpha being tested with a Kenwood TS-590S Transceiver and a Xiegu X6100 Transceiver:
-
-[![CatSync v0.0.5-alpha Demo](https://img.youtube.com/vi/4MfTf7KUQS8/sddefault.jpg)](https://www.youtube.com/watch?v=4MfTf7KUQS8)
 
 Here, you can watch a quick video of CatSync v.0.0.5-alpha being tested with an ICOM IC-706G MK2 Transceiver and an ICOM IC-751A Transceiver:
 [![CatSync v0.0.5-alpha Demo](https://img.youtube.com/vi/Y9EYQmZKFbw/sddefault.jpg)](https://www.youtube.com/watch?v=Y9EYQmZKFbw)
+
+Here, you can watch a quick video of CatSync v.0.0.5-alpha being tested with a Kenwood TS-590S Transceiver and a Xiegu X6100 Transceiver:
+[![CatSync v0.0.5-alpha Demo](https://img.youtube.com/vi/4MfTf7KUQS8/sddefault.jpg)](https://www.youtube.com/watch?v=4MfTf7KUQS8)
+
 
 ### CatSync (v0.0.1-beta) Public Release
 Here, you can watch a quick video of CatSync v.0.0.1-beta being tested with a Kenwood TS-590S Transceiver and a Xiegu X6100 Transceiver:
