@@ -68,7 +68,7 @@ Here, you can watch a quick video of CatSync v.0.0.1-beta being tested with a Ke
 
 ## 📄 Resume
 
-For more details about my experience and education, you can reach me for my full resume.
+For more details about my experience and education, you can reach me at joao.cunha.lopes (at) gmail.com for my full resume.
 
 ---
 
